@@ -18,54 +18,62 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+.x1761a4baaf1a7150a3ebafb9fce189fc a{
+font-size:16px;
+}
+.btn-md{
+padding: 15.4px 29.6px;
+border-radius: 0;
+}
+a{
+text-decoration: none!important;
+}
 ul{
 list-style: circle;
 }
-.btn-md{
-padding: 15.4px 29.9px;
-border-radius: 0;
+.d673c00d5e9a874564a234e15afd11982:hover{
+box-shadow: 0 49.8px 50.3px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
-*{
-font-family: 'Kumbh Sans', sans-serif;
+.nav-item{
+padding-left:8.2px;
+padding-right:7.9px;
+padding-top:5.5px;
+padding-bottom:5.3px;
 }
-.dedaf8c6ba03eee77a34dd052984e379d p,.dedaf8c6ba03eee77a34dd052984e379d a,.dedaf8c6ba03eee77a34dd052984e379d span,.dedaf8c6ba03eee77a34dd052984e379d label{
+.x1761a4baaf1a7150a3ebafb9fce189fc p,.x1761a4baaf1a7150a3ebafb9fce189fc span,.x1761a4baaf1a7150a3ebafb9fce189fc label{
 font-size:16px!important;
 }
 footer{
 background:#050505;
 color:#ffffff;
 }
-.a20eca6227a7810e297ba2935dcc59e7b a{
-font-size:16px;
+.navbar a{
+font-size: 17.9px!important;
+font-weight: bold;
 }
-footer a{
-color:#ffffff;
-text-decoration: underline;
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
-.a20eca6227a7810e297ba2935dcc59e7b p,.a20eca6227a7810e297ba2935dcc59e7b span,.a20eca6227a7810e297ba2935dcc59e7b label{
-font-size:16px!important;
-}
-a{
-text-decoration: none!important;
+.nav-link{
+color: #000000!important;
+
 }
 footer *{
 font-size:16px !important;
 }
-.nav-item{
-padding-left:7.5px;
-padding-right:8.4px;
-padding-top:4.9px;
-padding-bottom:5.1px;
+.ef938bb898991e20b74e42901868a0a91 p,.ef938bb898991e20b74e42901868a0a91 a,.ef938bb898991e20b74e42901868a0a91 span,.ef938bb898991e20b74e42901868a0a91 label{
+font-size:16px!important;
 }
-.w342267f0b97233d58fa1b9bad331a5aa:hover{
-box-shadow: 0 50.2px 49.5px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
+.ef938bb898991e20b74e42901868a0a91 a,.x1761a4baaf1a7150a3ebafb9fce189fc a{
+color:#0c0c0c!important;
+text-decoration: underline !important;
 }
-.navbar a{
-font-size: 18.1px!important;
-font-weight: bold;
-}
-.d9e28e6bb57f17c6fe5a83105038bdd15{
+.f9cdda53b2d1e3d63ee4725fd115f168b{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
@@ -73,42 +81,34 @@ color:#000000!important;
 html{
 scroll-behavior: smooth;
 }
-.nav-link{
-color: #000000!important;
-
-}
-.dedaf8c6ba03eee77a34dd052984e379d a,.a20eca6227a7810e297ba2935dcc59e7b a{
-color:#0e0e0e!important;
-text-decoration: underline !important;
-}
 </style>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  ><img alt="img/photoboothscolourbkgdsq.jpg" src="img/photoboothscolourbkgdsq.jpg"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto d-flex align-items-center navbar-nav"><li class="nav-item"><a class="nav-link c6386d3794037993342e2e88bcb6dbf6c" href="news.html" rel="nofollow" >News</a></li>
+<ul class="d-flex navbar-nav align-items-center ml-auto"><li class="nav-item"><a class="nav-link z4eb937423320e4e5ea93bb95792e036c" href="news.html" rel="nofollow" >News</a></li>
 <li class="nav-item">
-<a class="nav-link c6386d3794037993342e2e88bcb6dbf6c" href="index.html" >History and Evolution of Photo Booths</a>
+<a class="z4eb937423320e4e5ea93bb95792e036c nav-link" href="index.html" >History and Evolution of Photo Booths</a>
 </li>
 <li class="nav-item">
-<a class="nav-link c6386d3794037993342e2e88bcb6dbf6c" href="photo-booths-automated-photography.html" >Photo Booths Automated Photography</a>
+<a class="z4eb937423320e4e5ea93bb95792e036c nav-link" href="photo-booths-automated-photography.html" >Photo Booths Automated Photography</a>
 </li>
 <li class="nav-item">
-<a class="nav-link c6386d3794037993342e2e88bcb6dbf6c" href="photo-booths-design.html" >Photo Booths Design</a>
+<a class="nav-link z4eb937423320e4e5ea93bb95792e036c" href="photo-booths-design.html" >Photo Booths Design</a>
 </li>
 <li class="nav-item">
-<a class="c6386d3794037993342e2e88bcb6dbf6c nav-link" href="photo-booths-culture.html" >Photo Booths Culture</a>
+<a class="z4eb937423320e4e5ea93bb95792e036c nav-link" href="photo-booths-culture.html" >Photo Booths Culture</a>
 </li>
 <li class="dropdown nav-item">
-<a class="dropdown-toggle nav-link c6386d3794037993342e2e88bcb6dbf6c" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="nav-link z4eb937423320e4e5ea93bb95792e036c dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
 <a class="dropdown-item" href="photo-booths-history.html"  >Photo Booths History</a></div>
 </li>
-<li class="nav-item"><a class="c6386d3794037993342e2e88bcb6dbf6c nav-link" rel=nofollow href="about-us.html">About Us</a>
+<li class="nav-item"><a class="z4eb937423320e4e5ea93bb95792e036c nav-link" rel=nofollow href="about-us.html">About Us</a>
 </li><li class="nav-item">
-<a class="btn-md btn d9e28e6bb57f17c6fe5a83105038bdd15" href="https://www.specialeventsphotobooths.co.uk/" rel="nofollow">Contact Us</a>
+<a class="f9cdda53b2d1e3d63ee4725fd115f168b btn btn-md" href="https://www.specialeventsphotobooths.co.uk/" rel="nofollow">Contact Us</a>
 </li>
 </ul>
 </div>
@@ -176,7 +176,7 @@ info@specialeventsphotobooths.co.uk</br>
 </p>
 </section>
 <footer>
-<div class="pt-5 container py-4" >
+<div class="container py-4 pt-5" >
 <div class="row"><div class="col-lg-3">
 <p>Special Events Photo Booths Worcester </p>
 <p>Phone : 01905 964944</p>
@@ -184,10 +184,10 @@ info@specialeventsphotobooths.co.uk</br>
 <p>City : Worcester </p>
 <p>Zip : WR1 2HB</p>
 <p>Address : The Kiln, 2 Copenhagen St</p>
-<p>Company Website : <a class="c6386d3794037993342e2e88bcb6dbf6c" href="https://www.specialeventsphotobooths.co.uk/worcestershire/" rel="nofollow">https://www.specialeventsphotobooths.co.uk/worcestershire/</a></p>
-</div><div class="col-lg-3"><p><a class="c6386d3794037993342e2e88bcb6dbf6c" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="c6386d3794037993342e2e88bcb6dbf6c" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="c6386d3794037993342e2e88bcb6dbf6c" href="about-us.html" rel="nofollow">About Us</a></p>
+<p>Company Website : <a class="z4eb937423320e4e5ea93bb95792e036c" href="https://www.specialeventsphotobooths.co.uk/worcestershire/" rel="nofollow">https://www.specialeventsphotobooths.co.uk/worcestershire/</a></p>
+</div><div class="col-lg-3"><p><a class="z4eb937423320e4e5ea93bb95792e036c" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="z4eb937423320e4e5ea93bb95792e036c" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="z4eb937423320e4e5ea93bb95792e036c" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
